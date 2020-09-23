@@ -6,6 +6,6 @@
   "name" : "TImeout Policy",
   "rules" : [ {
     "$class" : "AgentTimeoutRule",
-    "maxTime" : 30
+    "maxTime" : 60
   } ]
 } ]
